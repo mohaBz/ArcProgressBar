@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ArcProgressBar">
+        <attr name="progress" format="integer" />
+        <attr name="progress_color" format="color" />
+        <attr name="bar_color" format="color" />
+        <attr name="progress_width" format="dimension" />
+        <attr name="bar_width" format="dimension" />
+        <attr name="text_color" format="color" />
+        <attr name="text_size" format="dimension" />
+        <attr name="dash_stroke" format="boolean"/>
+        <attr name="dash_lenght" format="dimension"/>
+        <attr name="dash_gap" format="dimension"/>
+    </declare-styleable>
+
+</resources>
