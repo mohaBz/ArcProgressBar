@@ -6,7 +6,7 @@ make arc shaped progressbar
 make dash arc shape progress bar
 progress gradient coloring
 # ScreenShots 
- ![Alt text](screenshots/arcprogscshot.PNG?raw=true)
+ ![Alt text](screenshots/arcprogscshot.PNG?raw=true) ![Alt text](screenshots/Screenshot_1586467916.PNG?raw=true) 
 # Code Example 
 you can customized the View through XML like this example
 ```
